@@ -1,0 +1,219 @@
+[
+    {
+      "team_name": "Chennai Super Kings",
+      "captain": "Ruturaj Gaikwad",
+      "players": [
+        { "name": "Ruturaj Gaikwad", "role": "bat" },
+        { "name": "Rachin Ravindra", "role": "all-rnd" },
+        { "name": "Devon Conway", "role": "bat" },
+        { "name": "Vijay Shankar", "role": "all-rnd" },
+        { "name": "Shivam Dube", "role": "bat" },
+        { "name": "MS Dhoni", "role": "wk" },
+        { "name": "Ravindra Jadeja", "role": "all-rnd" },
+        { "name": "Noor Ahmad", "role": "bowl" },
+        { "name": "Matheesha Pathirana", "role": "bowl" },
+        { "name": "Syed Khaleel Ahmed", "role": "bowl" },
+        { "name": "Rahul Tripathi", "role": "bat" },
+        { "name": "Ravichandran Ashwin", "role": "all-rnd" },
+        { "name": "Mukesh Choudhary", "role": "bowl" },
+        { "name": "Anshul Kamboj", "role": "bowl" },
+        { "name": "Shaik Rasheed", "role": "bat" }
+      ]
+    },
+    {
+      "team_name": "Delhi Capitals",
+      "captain": "Axar Patel",
+      "players": [
+        { "name": "Axar Patel", "role": "all-rnd" },
+        { "name": "Kuldeep Yadav", "role": "bowl" },
+        { "name": "Tristan Stubbs", "role": "wk" },
+        { "name": "Abishek Porel", "role": "wk" },
+        { "name": "Mitchell Starc", "role": "bowl" },
+        { "name": "KL Rahul", "role": "wk" },
+        { "name": "Jake Fraser-Mcgurk", "role": "bat" },
+        { "name": "Sameer Rizvi", "role": "all-rnd" },
+        { "name": "Ashutosh Sharma", "role": "all-rnd" },
+        { "name": "Mohit Sharma", "role": "bowl" },
+        { "name": "Faf du Plessis", "role": "bat" },
+        { "name": "T Natarajan", "role": "bowl" },
+        { "name": "Mukesh Kumar", "role": "bowl" },
+        { "name": "Karun Nair", "role": "bat" }
+      ]
+    },
+    {
+      "team_name": "Gujarat Titans",
+      "captain": "Shubman Gill",
+      "players": [
+        { "name": "Shubman Gill", "role": "bat" },
+        { "name": "Sai Sudharsan", "role": "bat" },
+        { "name": "Jos Buttler", "role": "wk" },
+        { "name": "Sherfane Rutherford", "role": "bat" },
+        { "name": "Rahul Tewatia", "role": "all-rnd" },
+        { "name": "Shahrukh Khan", "role": "bat" },
+        { "name": "Rashid Khan", "role": "bowl" },
+        { "name": "R Sai Kishore", "role": "bowl" },
+        { "name": "Mohammad Siraj", "role": "bowl" },
+        { "name": "Prasidh Krishna", "role": "bowl" },
+        { "name": "Ishant Sharma", "role": "bowl" },
+        { "name": "Washington Sundar", "role": "all-rnd" },
+        { "name": "Arshad Khan", "role": "bowl" },
+        { "name": "Glenn Phillips", "role": "wk" },
+        { "name": "Kagiso Rabada", "role": "bowl" },
+        { "name": "Mahipal Lomror", "role": "bat" },
+        { "name": "Nishant Sindhu", "role": "all-rnd" }
+      ]
+    },
+    {
+      "team_name": "Kolkata Knight Riders",
+      "captain": "Ajinkya Rahane",
+      "players": [
+        { "name": "Quinton de Kock", "role": "wk" },
+        { "name": "Sunil Narine", "role": "all-rnd" },
+        { "name": "Ajinkya Rahane", "role": "bat" },
+        { "name": "Venkatesh Iyer", "role": "all-rnd" },
+        { "name": "Ramandeep Singh", "role": "bat"},
+        { "name": "Rinku Singh", "role": "bat" },
+        { "name": "Angkrish Raghuvanshi", "role": "bat"},
+        { "name": "Vaibhav Arora", "role": "bowl" },
+        { "name": "Varun Chakravarthy", "role": "bowl" },
+        { "name": "Spencer Johnson", "role": "bowl" },
+        { "name": "Andre Russell", "role": "all-rnd" },
+        { "name": "Harshit Rana", "role": "bowl" },
+        { "name": "Manish Pandey", "role": "bat" },
+        { "name": "Moeen Ali", "role": "all-rnd" },
+        { "name": "Rovman Powell", "role": "bat" },
+        { "name": "Umran Malik", "role": "bowl" },
+        { "name": "Mayank Markande", "role": "bowl" },
+        { "name": "Anrich Nortje", "role": "bowl" },
+        { "name": "Rahmanullah Gurbaz", "role": "wk" },
+        { "name": "Rovman Powell", "role": "bat" }
+      ]
+    },
+    {
+      "team_name": "Lucknow Super Giants",
+      "captain": "Rishabh Pant",
+      "players": [
+        { "name": "Aiden Markram", "role": "bat" },
+        { "name": "Mitchel Marsh", "role": "bat" },
+        { "name": "Nicholas Pooran", "role": "bat" },
+        { "name": "Abdul Samad", "role": "bat" },
+        { "name": "David Miller", "role": "bat" },
+        { "name": "Rishabh Pant", "role": "wk" },
+        { "name": "Shahbaz Ahmed", "role": "all-rnd" },
+        { "name": "Ayush Badoni", "role": "bat" },
+        { "name": "Ravi Bishnoi", "role": "bowl" },
+        { "name": "Akash Deep", "role": "bowl" },
+        { "name": "Avesh Khan", "role": "bowl" },
+        { "name": "Digvesh Singh", "role": "bowl" },
+        { "name": "Shardul Thakur", "role": "bowl" },
+        { "name": "Mohsin Khan", "role": "bowl" },
+        { "name": "Matthew Breetzke", "role": "wk" },
+        { "name": "Yuvraj Chaudhary", "role": "all-rnd" },
+        { "name": "Rajvardhan Hangargekar", "role": "all-rnd" },
+        { "name": "Arshin Kulkarni", "role": "all-rnd" },
+        { "name": "Shamar Joseph", "role": "bowl" },
+        { "name": "Aryan Juyal", "role": "wk" }
+      ]
+    },
+    {
+      "team_name": "Mumbai Indians",
+      "captain": "Hardik Pandya",
+      "players": [
+        { "name": "Rohit Sharma", "role": "bat" },
+        { "name": "Ryan Rickelton", "role": "wk" },
+        { "name": "SuryaKumar Yadav", "role": "bat" },
+        { "name": "Tilak Verma", "role": "bat" },
+        { "name": "Raj Angad Bawa", "role": "all-rnd" },
+        { "name": "Hardik Pandya", "role": "all-rnd" },
+        { "name": "Will Jacks", "role": "bat" },
+        { "name": "Naman Dhir", "role": "bat" },
+        { "name": "Trent Boult", "role": "bowl" },
+        { "name": "Jasprit Bumrah", "role": "bowl" },
+        { "name": "Deepak Chahar", "role": "bowl" },
+        { "name": "Ashwani Kumar", "role": "bowl" },
+        { "name": "Vignesh Puthur", "role": "bowl" },
+        { "name": "Allah Mohammad Ghazanfar", "role": "bowl" },
+        { "name": "Bevon Jacobs", "role": "all-rnd" },
+        { "name": "Satyanarayana Raju", "role": "all-rnd" }
+      ]
+    },
+    {
+      "team_name": "Punjab Kings",
+      "captain": "Shreyas Iyer",
+      "players": [
+        { "name": "Prabhsimran Singh", "role": "wk" },
+        { "name": "Priyansh Arya", "role": "all-rnd" },
+        { "name": "Shreyas Iyer", "role": "bat" },
+        { "name": "Nehal Wadhera", "role": "bat" },
+        { "name": "Shashank Singh", "role": "bat" },
+        { "name": "Marcus Stoinis", "role": "all-rnd" },
+        { "name": "Glenn Maxwell", "role": "all-rnd" },
+        { "name": "Yuzvendra Chahal", "role": "bowl" },
+        { "name": "Lockie Ferguson", "role": "bowl" },
+        { "name": "Arshdeep Singh", "role": "bowl" },
+        { "name": "Marco Jansen", "role": "all-rnd" },
+        { "name": "Harpreet Brar", "role": "all-rnd" },
+        { "name": "Xavier Bartlett", "role": "bowl" },
+        { "name": "Praveen Dubey", "role": "all-rnd" },
+        { "name": "Musheer Khan", "role": "all-rnd" },
+        { "name": "Azmatullah Omarzai", "role": "all-rnd" }
+      ]
+    },
+    {
+      "team_name": "Rajasthan Royals",
+      "captain": "Sanju Samson",
+      "players": [
+        { "name": "Sanju Samson", "role": "wk" },
+        { "name": "Yashasvi Jaiswal", "role": "bat" },
+        { "name": "Riyan Parag", "role": "all-rnd" },
+        { "name": "Dhruv Jurel", "role": "wk" },
+        { "name": "Shimron Hetmyer", "role": "bat" },
+        { "name": "Shubham Dubey", "role": "bat" },
+        { "name": "Jofra Archer", "role": "bowl" },
+        { "name": "Tushar Deshpande", "role": "bowl" },
+        { "name": "Wanindu Hasaranga", "role": "all-rnd" },
+        { "name": "Maheesh Theekshana", "role": "bowl" },
+        { "name": "Kumar Kartikeya", "role": "bowl" },
+        { "name": "Yudhvir Charak", "role": "bowl" },
+        { "name": "Fazalhaq Farooqi", "role": "bowl" },
+        { "name": "Akash Madhwal", "role": "bowl" },
+        { "name": "Kwena Maphaka", "role": "bowl" }
+      ]
+    },
+    {
+      "team_name": "Royal Challengers Bengaluru",
+      "captain": "Rajat Patidar",
+      "players": [
+        { "name": "Rajat Patidar", "role": "bat" },
+        { "name": "Philip Salt", "role": "bat" },
+        { "name": "Devdutt Padikkal", "role": "bat" },
+        { "name": "Virat Kohli", "role": "bat" },
+        { "name": "Jitesh Sharma", "role": "wk" },
+        { "name": "Tim David", "role": "bat" },
+        { "name": "Liam Livingstone", "role": "all-rnd" },        
+        { "name": "Josh Hazlewood", "role": "bowl" },
+        { "name": "Bhuvneshwar Kumar", "role": "bowl" },
+        { "name": "Krunal Pandya", "role": "bowl" },
+        { "name": "Yash Dayal", "role": "bowl" },
+        { "name": "Suyash Sharma", "role": "bowl" }
+      ]
+    },
+    {
+      "team_name": "Sunrisers Hyderabad",
+      "captain": "Pat Cummins",
+      "players": [
+        { "name": "Abhishek Sharma", "role": "bat" },
+        { "name": "Travis Head", "role": "bat" },
+        { "name": "Ishan Kishan", "role": "wk" },
+        { "name": "Nitish Kumar Reddy", "role": "bat" },
+        { "name": "Heinrich Klaasen", "role": "wk" },
+        { "name": "Aniket Verma", "role": "all-rnd" },
+        { "name": "Pat Cummins", "role": "bowl" },
+        { "name": "Abhinav Manohar", "role": "bat" },
+        { "name": "Zeeshan Ansari", "role": "all-rnd" },
+        { "name": "Harshal Patel", "role": "bowl" },
+        { "name": "Mohammed Shami", "role": "bowl" },
+        { "name" : "Adam Zampa", "role": "bowl"}
+      ]
+    }
+  ]
