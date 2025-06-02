@@ -16,7 +16,7 @@
         { "name": "Matheesha Pathirana", "role": "bowl" },
         { "name": "Syed Khaleel Ahmed", "role": "bowl" },
         { "name": "Ravichandran Ashwin", "role": "all-rnd" },
-        { "name": "Shaik Rasheed", "role": "bat" },
+        { "name": "Shaik Rasheed", "role": "bat" }
       ]
     },
     {
@@ -59,7 +59,7 @@
         { "name": "Ishant Sharma", "role": "bowl" },
         { "name": "Arshad Khan", "role": "bowl" },
         { "name": "Glenn Phillips", "role": "bat" },
-        { "name": "Mahipal Lomror", "role": "bat" },
+        { "name": "Mahipal Lomror", "role": "bat" }
       ]
     },
     {
@@ -82,7 +82,7 @@
         { "name": "Moeen Ali", "role": "all-rnd" },
         { "name": "Rovman Powell", "role": "bat" },
         { "name": "Anrich Nortje", "role": "bowl" },
-        { "name": "Rahmanullah Gurbaz", "role": "wk" },
+        { "name": "Rahmanullah Gurbaz", "role": "wk" }
       ]
     },
     {
@@ -108,7 +108,7 @@
         { "name": "Rajvardhan Hangargekar", "role": "all-rnd" },
         { "name": "Arshin Kulkarni", "role": "all-rnd" },
         { "name": "Shamar Joseph", "role": "bowl" },
-        { "name": "Aryan Juyal", "role": "wk" },
+        { "name": "Aryan Juyal", "role": "wk" }
       ]
     },
     {
@@ -128,7 +128,7 @@
         { "name": "Deepak Chahar", "role": "bowl" },
         { "name": "Ashwani Kumar", "role": "bowl" },
         { "name": "Rechard Gleeson", "role": "bowl" },
-        { "name": "Vignesh Puthur", "role": "bowl" },
+        { "name": "Vignesh Puthur", "role": "bowl" }
       ]
     },
     {
@@ -147,7 +147,7 @@
         { "name": "Yuzvendra Chahal", "role": "bowl" },
         { "name": "Arshdeep Singh", "role": "bowl" },
         { "name": "Vyshak VijayKumar", "role": "bowl" },
-        { "name": "Musheer Khan", "role": "all-rnd" },
+        { "name": "Musheer Khan", "role": "all-rnd" }
       ]
     },
     {
@@ -168,7 +168,7 @@
         { "name": "Yudhvir Charak", "role": "bowl" },
         { "name": "Fazalhaq Farooqi", "role": "bowl" },
         { "name": "Akash Madhwal", "role": "bowl" },
-        { "name": "Kwena Maphaka", "role": "bowl" },
+        { "name": "Kwena Maphaka", "role": "bowl" }
       ]
     },
     {
@@ -187,7 +187,7 @@
         { "name": "Bhuvneshwar Kumar", "role": "bowl" },
         { "name": "Krunal Pandya", "role": "bowl" },
         { "name": "Yash Dayal", "role": "bowl" },
-        { "name": "Suyash Sharma", "role": "bowl" },
+        { "name": "Suyash Sharma", "role": "bowl" }
       ]
     },
     {
@@ -205,7 +205,7 @@
         { "name": "Zeeshan Ansari", "role": "all-rnd" },
         { "name": "Harshal Patel", "role": "bowl" },
         { "name": "Mohammed Shami", "role": "bowl" },
-        { "name" : "Adam Zampa", "role": "bowl"},
+        { "name" : "Adam Zampa", "role": "bowl"}
       ]
     }
   ]
